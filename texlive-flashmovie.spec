@@ -59,3 +59,13 @@ the user is required to use Acrobat 9.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.4-3
++ Revision: 790628
+- Update to latest release.
+- Update to latest release.
+- Import texlive-flashmovie
+- Import texlive-flashmovie
+
