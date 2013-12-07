@@ -6,7 +6,7 @@
 # catalog-version 0.4
 Name:		texlive-flashmovie
 Version:	0.4
-Release:	6
+Release:	7
 Summary:	Directly embed flash movies into PDF files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flashmovie
