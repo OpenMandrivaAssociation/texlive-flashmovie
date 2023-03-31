@@ -1,6 +1,6 @@
 Name:		texlive-flashmovie
 Version:	25768
-Release:	1
+Release:	2
 Summary:	Directly embed flash movies into PDF files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flashmovie
