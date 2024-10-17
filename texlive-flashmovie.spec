@@ -3,7 +3,7 @@ Version:	25768
 Release:	2
 Summary:	Directly embed flash movies into PDF files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flashmovie
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/flashmovie
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/flashmovie.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/flashmovie.doc.r%{version}.tar.xz
